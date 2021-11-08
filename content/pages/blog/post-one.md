@@ -22,6 +22,7 @@ bottomSections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: primary
+        showIcon: true
     styles:
       self:
         height: auto
