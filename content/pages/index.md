@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     backgroundImage:
-      altText: null
+      altText: aaa
       caption: null
       elementId: ''
       styles:
@@ -101,7 +101,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
